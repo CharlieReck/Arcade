@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+Call of Duty
+Charlie Reckling
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (enemy is in sight) {
+    fire at enemy;
 } else {
-    //Add event below
+    do nothing
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (enemy is behind cover) {
+    throw grenade;
 } else {
-    //Add event below
+    use primary weapon
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (primary weapon is out of ammo) {
+    reload primary weapon;
 } else {
-    //Add event below
+    continue fire at enemy
 }
 
 
